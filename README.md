@@ -6,76 +6,37 @@ This project uses machine learning and NLP techniques to classify emails as **Sp
 
 ## 🔍 Features
 
-- Data loading and preprocessing
-- TF-IDF text vectorization
-- Naive Bayes model
+- Data loading and preprocessing  
+- TF-IDF text vectorization  
+- Naive Bayes model  
 - Accuracy, precision, recall evaluation
 
 ---
 
-## ▶️ Run it in Google Colab
+## ▶️ Run in Google Colab
 
-Click the badge below to open the notebook in Google Colab:
-# 📧 Email Spam Detection using Machine Learning
+Click the button below to open and run the notebook in Google Colab:
 
-This project uses machine learning and NLP techniques to classify emails as **Spam** or **Not Spam**.
-
----
-
-## 🔍 Features
-
-- Data loading and preprocessing
-- TF-IDF text vectorization
-- Naive Bayes model
-- Accuracy, precision, recall evaluation
-
----
-
-## ▶️ Run it in Google Colab
-
-Click the badge below to open the notebook in Google Colab:
-
-https://colab.research.google.com/github/khushisharma-hub/Email-Spam-Detection/blob/main/Copy_of_Email_Spam_Detector.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khushisharma-hub/Email-Spam-Detection/blob/main/Copy_of_Email_Spam_Detector.ipynb)
 
 ---
 
 ## 📁 Files
 
-- `Email_Spam_Detector.ipynb` – Jupyter Notebook
-- `spam.csv` – (If used, upload or link to dataset)
+- `Copy_of_Email_Spam_Detector.ipynb` – Main Jupyter Notebook  
+- `spam.csv` – Dataset (upload this if required)
 
 ---
 
 ## 📋 How to Use
 
-1. Open in Colab using the badge above
-2. Run each cell
-3. Upload `spam.csv` if needed
+1. Click the “Open in Colab” badge above  
+2. Run each cell step-by-step  
+3. Upload `spam.csv` if your code requires it
 
 ---
 
 ## 👩‍💻 Author
 
-[Khushi Sharma](https://github.com/khushisharma-hub)
-
-
----
-
-## 📁 Files
-
-- `Email_Spam_Detector.ipynb` – Jupyter Notebook
-- `spam.csv` – (If used, upload or link to dataset)
-
----
-
-## 📋 How to Use
-
-1. Open in Colab using the badge above
-2. Run each cell
-3. Upload `spam.csv` if needed
-
----
-
-## 👩‍💻 Author
-
-[Khushi Sharma](https://github.com/khushisharma-hub)
+**Khushi Sharma**  
+[GitHub Profile](https://github.com/khushisharma-hub)
